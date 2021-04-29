@@ -1,5 +1,10 @@
-# Client-Socket-Game
+# Client-Socket-GUI-Game
 README
+#####################################################################
+This is a simple multi client-server network game, where up to 4 
+players can connect to a screen and move objects around using arrow 
+keys. GUI created using python Tkinter and python socket programming.
+
 #####################################################################
 Follow these instructions before running the bash scripts
 - download and unzip file.
@@ -12,9 +17,6 @@ Follow these instructions before running the bash scripts
 - to quit from server, use CTRL-C. (Make sure all other client terminals
     are closed first before closing server and attempting to run the 
     server script again, this will prevent server being unavailable).
-
-#####################################################################
-All relevant documentation can be found in the Documents folder
 
 #####################################################################
 Possible Future Improvements
